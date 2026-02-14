@@ -12,5 +12,5 @@ about:
   icon: https://avatars.githubusercontent.com/u/3299148?v=4
 source:
   project: https://github.com/awslabs/mcp
-  commit: f12c7194f5c6cc2d3873bcf9fc6e6a12186a5e3f
+  commit: 1e17784e2bd724f046f1f404d5996a8941653af4
   directory: src/cdk-mcp-server
