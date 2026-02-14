@@ -13,7 +13,7 @@ about:
 source:
   project: https://github.com/atlanhq/agent-toolkit
   branch: main
-  commit: f5f86672bdd7cba60faff446775bf343987b707a
+  commit: c3fbeb7e52ff7dbd6f9cc2f6b49b8a1b207a3e09
   directory: modelcontextprotocol
 config:
   description: Configure the connection to Atlan
