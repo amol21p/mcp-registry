@@ -12,5 +12,5 @@ about:
   icon: https://avatars.githubusercontent.com/u/3299148?v=4
 source:
   project: https://github.com/awslabs/mcp
-  commit: 27e278f29aef3fc0873a1aa7a08aa66191c43d86
+  commit: 1e17784e2bd724f046f1f404d5996a8941653af4
   directory: src/aws-documentation-mcp-server
